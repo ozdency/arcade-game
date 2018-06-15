@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 160px 50px;
+    background-color: #000;
+}
+
+h1 {
+	font-family: 'Press Start 2P', cursive;
+	color: #fff;
+	text-shadow: 2px 2px 1px #df0f0f;
+	cursor: default;
+}
+
+h2 {
+	font-family: 'Press Start 2P', cursive;
+	color: #000;
+	background-color: green;
+	text-align: center;
+	width: 175px;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+	cursor: default;
+	opacity: 0.8;
+}
+
+#lvlScore {
+	color: #000;
+}
